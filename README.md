@@ -19,3 +19,4 @@ If you wish to help improve the CLI, please see the [Contributing guide][contrib
 [contributing]: /CONTRIBUTING.md
 # ia-data-opportunity
 # ia-data-opportunity
+# mining-misconceptions-mathematics
